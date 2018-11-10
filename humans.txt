@@ -1,0 +1,12 @@
+
+/* MAIN */
+  Develop & Main Design: Konrad Wasowicz
+  Twitter: @exaroth
+  Site: http://www.konradwasowicz.com
+
+/* SITE */
+  Last update: 11/09/2014
+  Doctype: HTML5
+  IDE: VIM
+
+
