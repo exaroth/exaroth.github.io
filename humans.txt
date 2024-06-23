@@ -1,4 +1,3 @@
-
 /* MAIN */
   Develop & Main Design: Konrad Wasowicz
   Twitter: @exaroth
